@@ -1,0 +1,1 @@
+A door can be a gate, but a gate is not a door. The specific requirements for something to be a gate can be very vague; it can be a door, a ring, nothing, or even a closet. However, a door doesn't require another side; it can stand there being a door, but a gate isn't the same. It requires at least two sides. What's on the other side? Who knows.
